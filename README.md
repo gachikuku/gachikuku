@@ -1,1 +1,1 @@
-## Interested in InfoSec (and OpSec!), software development and personal cli tools.
+## Interested in InfoSec, OpSec and personal cli tools.
