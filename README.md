@@ -1,3 +1,3 @@
-### gachikuku
+## gachikuku
 
-Interested in InfoSec and Software Development
+### Interested in InfoSec (and OpSec!), software development and personal cli tools.
